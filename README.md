@@ -1,2 +1,2 @@
 # Information-System-security
-Course materials and code examples to started on Information System Security.
+Course materials and code examples to get started on learning Information System Security.
